@@ -1,0 +1,27 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.pyc
+*.pyo
+__pycache__/
+
+# Log files
+logs/
+*.log
+
+# Temp files
+temp/
+*.tmp
+
+# Build outputs
+dist/
+build/
+*.egg-info/
